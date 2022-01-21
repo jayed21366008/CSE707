@@ -1,3 +1,8 @@
+Completed coursera course:
+jayed.mohammad.barek@g.bracu.ac.bd
+https://www.coursera.org/learn/machine-learning
+
+
 completed youtube video:
 https://youtu.be/3hLmDS179YE
 https://youtu.be/SpfO55NPhx8
